@@ -1,0 +1,1878 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="3221px" height="2951px" viewBox="-0.5 -0.5 3221 2951" content="&lt;mxfile&gt;&lt;diagram id=&quot;Ktnf5W9zxvUMV9d1324L&quot; name=&quot;Page-1&quot;&gt;7V1bk5u4Ev41rspuVVJcfJvHOXPJTu0ku5XJVs4+Tckg21Qw8gIej8/D/vYjQGAukg1GYLB7UpUZxEWo++vWpb8WA/1u9f7ZRevlF2Jie6Ap5vtAvx9o2nA00umvoGQXleiKwkoWrmVGZeq+4MX6H2aFCivdWCb2Mhf6hNi+tc4WGsRxsOFnypDrkm32sjmxs7Wu0QIXCl4MZBdLf1imv4xKpyNlX/4bthbLuGZVYWdWKL6YFXhLZJJtqkh/GOh3LiF+9Nfq/Q7bgfRiuUT3PQrOJi/mYscvdQMTvOfv4sZhk7aVHTrEob/+s/RXNj1S6Z9z4vhMIdqQHd8Rm7jhzVSTwQ8t93yX/EykM6UlUUXB04Xvyoo8snENdpXG1IvcBWZXDRM5UYRhssK+u6OXuNhGvvWWfTpiml4k1+2FQf9g8uDLRh9VlA1th7v7b/rgb3qgfBrFh/eBCSjJ0Y4dZWU1rCBlaTLVtZaEyup+Q/aGPXSgjW2ftTEj7fE/GxKf+OiF0rilF2jD9XvY9Ph8aOixbPaFsZRSReMF+x1WOIsLQjdlGfQ5D87ColrVlG/YMbFrOYv4YtquWf4BtCx66bg4h5bt0vLxyxqFct/SSrJwQd46ck5z6x2bQUMt205peT4K/iX4SJ0Zhz9FXEQ/yau8YdfH74eRUVQ5u+GjNmU+innpj+qYFWz3Po9KOSpbpvxdUlgLKGpBniWtL2Vwf2fsrRvWpxetT5225dKGJwu12y6NI9TWXJoudGkFj1HDxzFXhVY47aeeySJwXAJ/xHNdNX2UFM+SjIfO41puTh/zqNPSY57RyWAeFsE8bgnLalUH0bahc2SjCuAmXzhVB4QdEM6kJdkMhU7QtN64Lk88MPPWyOHewoZ5gYd0F7MP1BXQ91LiX79EY8EZMn4uXLJxzI+p6y3H8i1kH6y3rHdWpwLv/OT42J2HvvT2uFOOmlkoDuXFfbGTRrnVxT9zy72VRMWeU2fRUP/Tcr2WqTLBM9rXBl+0gfkM9chw9r+ZBdl0bPEx7nVD4d0IhHes8lyN2ojZatiNR3/ElYb6mqOVZe+iG+6I4xGb+qTwQvpMtAoGJ+zJd9TtWZjKRvmKt/mT0S0r4hAvGtkkFaQAIRpiVfFCwSxNwRM0FzxJtxzD3phYCCGlYm2mOpvOZqL3joQQPs8itPPBaJWUng5lUG7XlLvCKxJ0z6Dai1PtG51uEbekahXQbr+0+/L45ZnW9sNyTLJlQw6w4QvVMltW9hrWs1iKbGwcTUhSd2S1m9NmVntHF9nnCI/xzQmarAoJ7jhYID3B6B2Mh2s80fOjq8Npl49sy+BWYdBmeWKDenLDudSzNXNRuMwwmID8Zcp/vZmFp26P28DlCzt6mDPz1ok75xRVUclUm5nTG259eWhzxf/hF4b5yT0oo0FlvFmuv0G2tJ79QFX/VlC8vMFLeJecth2oxsRztLF9UVWA4P4g+JTO5I1YZhsmZLgY+Tia81yU/SiiSsBywHJktNXEQQRxB6YDpgOmU9F0LG9to92rTchaUN8HzzeDR+m3uUXX6BXik2tk5U61ICbLEQ7LYpCe8xVyi1mZo7vwfUCyINm+SBZ6UOhBoQct9KAu2r76+F1kUR9aaKuxRG4bbf1VUAl4hh57hsYX413i004Ym7AeX9YTJwOUjWP9s8Gva9+Vh3v+gCenEW8evUDE+svOrCW+whHexuvWcq4LHjUiImLjLsuNzJc2lKclysYS529R37KgQLg3cMAcTt6tXnqFfqNksivUoVJIrhjGuarp5IqksFbe1lhSitGkazlG4yK7XhvVpNeHt966LtqlLlgTOo/xUk/+k4QTm0TDEzWn4dFYz+koeuZeY8nLlVLiWMjmr8G3rsZfv51R/SIjqOwuYh0oEa9GZPpcZ1CFg13Br55Aqj6bKz6Vzt17RhYr+fSJ1hP+l1T/mCX97289cQzXe1G1QVG8QCE1wfC7JDFJ46kXfbsEWcnjvUVwUOIqmp95RjQw4fucyMNrcE3ttPm19YZ8XGt2XbFJMIXdv0KJKWy4dU0fkVWfRikfWBXbfWA1Mz1OLrIFet+8f+u171hfcq4WdzkWUI7C1Q9kdVnOJQk/IGighwil1OlQO5AYQLJ9kyz4WyATVGmrmExQBUclAmYthbXOs/3gTRy1YjGOcRzVSkex4m3DMlGsuLBWFGvS8a2eJg0Eo8oKZ9LN6ND9837jPYgOQXQIokMNBD5CI3ukvz4tC2MmkE9KPq++PwcZXXVUKMQCRIWuISoUGLzsSIxoHjHYB1+6yk4+MDtyNradipmdxFFuRn9Rr48lhvMOadBNagMdytHh9++Pr49kv8TTrP7YVAd014Eu4cLDuamJbV9jQR3ZzOUSRNnlZV6IE0Oc+LIEDXFiiGaCZEGyECeGOLHktkKcWEaceDgcHY0TjzROnDgprBUnnrYWJz7165KnxZfV+Luq0rMdi+mMai7Ur07zqonegt23107VxEk9X9GIfdJJVt5kLLVzhsbjCmdxASdW/tXYuF4S+ikZLZ9xyiCCDhF0iKBXiX46oel5pUPDymH5lLHdTkVFv9799e3l4WUAgVFYBS+0+8BoOcFNvxe7Dq1O124ipDbBknVX5QxL1rBkfdHLf7CwCpLtm2TB38KSdZW2trZkfXxnv0taxFZz+7lxc510zhp2UlhrDfum47lOKm/nPa2lZKe4cs6S7oxrTEWria8XLgGfcEtuNVITbbzJWfy9/U5lYHkHTY23rlv6Qt5a8YUuCsv7VPpxDET2tb9OF99yvuW9BFwdWt77jFZ4kF/Vq/+N0LOI/wRQcDMmBM0vv2B4Aipr52DKspESA9RkQkHdp+UsaMlrYOs1EM15E4mM71Khmpoj9uNFx0I9ZbqOzmOtY9bNWfavbdwdMMCK0j4wacmNd46sOTbZL3RYSG2y8EEhZ1BIl5dQLMcSrp4AGrqChhkhrfgHY4mNn8+EeCJ2BmDiOjHxw3IAEV1HRFt9xgL7v+MD32MHPFwXHlbkDfoLQMPeO7wYxAVEACLYw5DhWwTGD4AH9jBvs1oBHgAPSY+BVvjbBgABgIgdBPYrkVW7Aok8u6b8ezVOupGR76mNp1myjBpmweUzPicctkxSWIcPoqsFMXSMLcPZGjiiCbXBlhHvDSy0yLJUlgSmcQGP2/LioJ8yEht5sbIL5bBAYmOuKaxkn9j4tE9sDLgkkNaYGXuEz8uRssuY05VIJiaQgGTykqmaCltt7NLxPNi4p+o6T64v2a/tbwss83FAN2ucbtZYvmxLdts2siUQrzKD8SPT5269eqt0KBBTH9aDKpCUQEln5YlU4Q6Bqs6qqvKUHlDUGWPp5Zk2oKYeEGBAST3hpYCiekEXATX1gsUBauoHuQL01BfOQ28Wh4mPDR+bMhbR2t9wWwZtQp3Ge4ow2sRNTKNIsSbGMZMizZpICmvxAqruMZLsdp3a4Drc73pweLfr1tkW0yLbItoypAW2haZck1QnbXFYpi1yWJ4cH7vzwBUkAbjyAU3grgB3JdeUAnflGzZxFFJsZH/uRqLsHZAjEDhKSAZIPyLJSPvG9cVJxvB8M9qs8uooP5n+vcREo3loXAML4Zrm74dj1F0lEx2oRhFVAoDrThD3SLwdYAewawJ2B7kDALqrAV1XeBAAOYCc5LYe5nQA4ABw8n3cEX4KgA5AJ7mtx7g2ADmAnOS2HuMNAeQAcrK71mMcKMAcYE62mzvO57pe1DUeMZHJOuu5kRzKf8yHxfoPUBPP0cYWfpCvYzDtdGBP/ir06zZYN+4oqA7YyRzZwijLJarJjqJKoKiSO0ckZBxZ0uJ+RTXXnvx3V9usuwWIdv3DrrLFzT8SWegKrQHPgOeLwTN2fMvfAaQB0hcD6W00++/j8BA7m9WBlhkbN0ghubdczMIH0cZlVV9tMp3phsZ9g7/+lImsAxXd//Hja0tVPT88fm+pqm9Pn38T16WUSaSrmHfX+AbGFKwLhx4bOEjbSZ5Yc0djPUi6Se9oPFQKqXkT3ue/J1I+/621mO4UF7ANrY0kY2x/Z5w7VnjYl9vfHx6fnh9Sui379ekC+uR+Pf7xcRpluxW+Hm9ObmbhmYWLTAtncuTmczRK5cjVBNEwl9+pTjjbYqs3HBQlhbVQNAIUXQCK8nurD7U2QRS7MwBRn0GkjidndUW6uEM7RdfNIfD++ZkgE7uV4CIAnFwUzUfBPx6KxuHPoJDwHf3IQlCS2b5LurcigjQegjQpCBpXzKtvOz+eSrr4jQetpfx4fVpROqJdB5JzHdl1gCvVtnYdiCsHr3U5Xms84nitKc9rTWV4LfG3V7qFoC8ok7kD6OGjR1XGDcKHHrok0FNy7jMV2fILMXFwxf8B&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="mx-gradient-ff8000-1-ffa500-1-s-0">
+            <stop offset="0%" style="stop-color: rgb(255, 128, 0); stop-opacity: 1;"/>
+            <stop offset="100%" style="stop-color: rgb(255, 165, 0); stop-opacity: 1;"/>
+        </linearGradient>
+    </defs>
+    <g>
+        <path d="M 2515 1130 L 2515 1180.56" fill="none" stroke="rgb(0, 0, 0)" stroke-width="8" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 2515 1191.06 L 2508 1177.06 L 2515 1180.56 L 2522 1177.06 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-width="8" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 2400 1007.48 L 1761.95 965.78" fill="none" stroke="rgb(0, 0, 0)" stroke-width="4" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 1754.46 965.29 L 1764.77 960.95 L 1761.95 965.78 L 1764.12 970.93 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-width="4" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="2400" y="900" width="230" height="230" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 228px; height: 1px; padding-top: 1015px; margin-left: 2401px;">
+                        <div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <font color="#000000" style="font-size: 24px;">
+                                    <b>
+                                        Graphic Engine Rendering
+                                    </b>
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="2515" y="1019" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Graphic Engine Rendering
+                </text>
+            </switch>
+        </g>
+        <path d="M 695 1130 L 695 1188.03" fill="none" stroke="rgb(0, 0, 0)" stroke-width="4" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 695 1195.53 L 690 1185.53 L 695 1188.03 L 700 1185.53 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-width="4" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 810 1007.48 L 1448.05 965.78" fill="none" stroke="rgb(0, 0, 0)" stroke-width="4" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 1455.54 965.29 L 1445.88 970.93 L 1448.05 965.78 L 1445.23 960.95 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-width="4" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="580" y="900" width="230" height="230" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 228px; height: 1px; padding-top: 1015px; margin-left: 581px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <b>
+                                    <font style="font-size: 24px;">
+                                        Game Engine Logic
+                                    </font>
+                                </b>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="695" y="1019" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Game Engine Logic
+                </text>
+            </switch>
+        </g>
+        <path d="M 2294.05 1650 L 2205.55 1740.13" fill="none" stroke="rgb(0, 0, 0)" stroke-width="5" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 2199.77 1746.01 L 2203.56 1734.31 L 2205.55 1740.13 L 2211.4 1742.02 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-width="5" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 2719.17 1650 L 2801.86 1741.13" fill="none" stroke="rgb(0, 0, 0)" stroke-width="4" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 2806.9 1746.69 L 2796.48 1742.64 L 2801.86 1741.13 L 2803.89 1735.92 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-width="4" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 2507.31 1650 L 2504.3 1738.03" fill="none" stroke="rgb(0, 0, 0)" stroke-width="4" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 2504.04 1745.53 L 2499.39 1735.37 L 2504.3 1738.03 L 2509.38 1735.71 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-width="4" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="2290" y="1200" width="450" height="450" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 448px; height: 1px; padding-top: 1425px; margin-left: 2291px;">
+                        <div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <div style="">
+                                    <span style="color: rgb(0, 0, 0); background-color: initial;">
+                                        <font style="font-size: 18px;">
+                                            Interface:
+                                        </font>
+                                    </span>
+                                </div>
+                                <font color="#000000">
+                                    <div style="">
+                                        <br/>
+                                    </div>
+                                    <div style="">
+                                        <span style="background-color: initial;">
+                                            <font style="font-size: 18px;">
+                                                IRender.hpp
+                                            </font>
+                                        </span>
+                                    </div>
+                                </font>
+                                <div style="">
+                                    <br/>
+                                </div>
+                                <div style="background-color: rgb(43, 43, 43); line-height: 19px;">
+                                    <div style="color: rgb(250, 230, 233); font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px;">
+                                        <span style="color: #f0e7af;">
+                                            #include
+                                        </span>
+                                        <span style="color: #d1b8bb;">
+                                            &lt;iostream&gt;
+                                        </span>
+                                    </div>
+                                    <div style="color: rgb(250, 230, 233); font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px;">
+                                        <span style="color: #f0e7af;">
+                                            #include
+                                        </span>
+                                        <span style="color: #d1b8bb;">
+                                            &lt;memory&gt;
+                                        </span>
+                                    </div>
+                                    <div style="color: rgb(250, 230, 233); font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px;">
+                                        <span style="color: #f0e7af;">
+                                            #include
+                                        </span>
+                                        <span style="color: #d1b8bb;">
+                                            &lt;vector&gt;
+                                        </span>
+                                    </div>
+                                    <div style="color: rgb(250, 230, 233); font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px;">
+                                        <span style="color: #f0e7af;">
+                                            #include
+                                        </span>
+                                        <span style="color: #d1b8bb;">
+                                            &lt;SFML/Window.hpp&gt;
+                                        </span>
+                                    </div>
+                                    <div style="color: rgb(250, 230, 233); font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px;">
+                                        <span style="color: #f0e7af;">
+                                            #include
+                                        </span>
+                                        <span style="color: #d1b8bb;">
+                                            &lt;SFML/Graphics.hpp&gt;
+                                        </span>
+                                    </div>
+                                    <div style="">
+                                        <font color="#fae6e9" face="Consolas, Courier New, monospace">
+                                            <span style="font-size: 14px;">
+                                                <br/>
+                                            </span>
+                                        </font>
+                                    </div>
+                                    <div style="color: rgb(250, 230, 233); font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px;">
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            class
+                                        </span>
+                                        IrenderLibrary {
+                                    </div>
+                                    <div style="color: rgb(250, 230, 233); font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px;">
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            public:
+                                        </span>
+                                    </div>
+                                    <div style="color: rgb(250, 230, 233); font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px;">
+                                        <span style="color: #82bd89;">
+                                            IrenderLibrary
+                                        </span>
+                                        () {};
+                                    </div>
+                                    <div style="color: rgb(250, 230, 233); font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px;">
+                                        <span style="color: #82bd89;">
+                                            virtual
+                                        </span>
+                                        <span style="color: #82bd89;">
+                                            ~IrenderLibrary
+                                        </span>
+                                        ()
+                                        <span style="color: #f0e7af;">
+                                            =
+                                        </span>
+                                        <span style="color: #f0e7af;">
+                                            default
+                                        </span>
+                                        ;
+                                    </div>
+                                    <div style="color: rgb(250, 230, 233); font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px;">
+                                        <span style="color: #82bd89;">
+                                            virtual
+                                        </span>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            void
+                                        </span>
+                                        <span style="color: #82bd89;">
+                                            createWindow
+                                        </span>
+                                        ()
+                                        <span style="color: #f0e7af;">
+                                            =
+                                        </span>
+                                        <span style="color: #f0e7af;">
+                                            0
+                                        </span>
+                                        ;
+                                    </div>
+                                    <div style="color: rgb(250, 230, 233); font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px;">
+                                        <span style="color: #82bd89;">
+                                            virtual
+                                        </span>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            void
+                                        </span>
+                                        <span style="color: #82bd89;">
+                                            destroyWindow
+                                        </span>
+                                        ()
+                                        <span style="color: #f0e7af;">
+                                            =
+                                        </span>
+                                        <span style="color: #f0e7af;">
+                                            0
+                                        </span>
+                                        ;
+                                    </div>
+                                    <div style="color: rgb(250, 230, 233); font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px;">
+                                        <span style="color: #82bd89;">
+                                            virtual
+                                        </span>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            void
+                                        </span>
+                                        <span style="color: #82bd89;">
+                                            display_loop
+                                        </span>
+                                        (std::vector&lt;std::pair&lt;
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            int
+                                        </span>
+                                        ,
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            int
+                                        </span>
+                                        &gt;&gt;, std::vector&lt;std::pair&lt;
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            int
+                                        </span>
+                                        ,
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            int
+                                        </span>
+                                        &gt;&gt;, std::vector&lt;std::pair&lt;
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            int
+                                        </span>
+                                        ,
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            int
+                                        </span>
+                                        &gt;&gt;)
+                                        <span style="color: #f0e7af;">
+                                            =
+                                        </span>
+                                        <span style="color: #f0e7af;">
+                                            0
+                                        </span>
+                                        ;
+                                    </div>
+                                    <div style="color: rgb(250, 230, 233); font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px;">
+                                        <span style="color: #82bd89;">
+                                            virtual
+                                        </span>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            void
+                                        </span>
+                                        <span style="color: #82bd89;">
+                                            draw_text
+                                        </span>
+                                        (
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            char
+                                        </span>
+                                        <span style="color: #82bd89;">
+                                            *
+                                        </span>
+                                        )
+                                        <span style="color: #f0e7af;">
+                                            =
+                                        </span>
+                                        <span style="color: #f0e7af;">
+                                            0
+                                        </span>
+                                        ;
+                                    </div>
+                                    <div style="color: rgb(250, 230, 233); font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px;">
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            protected:
+                                        </span>
+                                    </div>
+                                    <div style="color: rgb(250, 230, 233); font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px;">
+                                        std::unique_ptr
+                                        <span style="color: #f0e7af;">
+                                            &lt;
+                                        </span>
+                                        sf::RenderWindow
+                                        <span style="color: #f0e7af;">
+                                            &gt;
+                                        </span>
+                                        _win;
+                                    </div>
+                                    <div style="color: rgb(250, 230, 233); font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px;">
+                                        };
+                                    </div>
+                                    <div style="">
+                                        <br/>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="2515" y="1429" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Interface:...
+                </text>
+            </switch>
+        </g>
+        <path d="M 1970 2210 L 1970 2613 Q 1970 2623 1980 2622.99 L 2388.03 2622.51" fill="none" stroke="rgb(0, 0, 0)" stroke-width="4" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 2395.53 2622.51 L 2385.53 2627.52 L 2388.03 2622.51 L 2385.52 2617.52 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-width="4" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="1740" y="1750" width="460" height="460" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 458px; height: 1px; padding-top: 1980px; margin-left: 1741px;">
+                        <div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <font color="#000000" style="font-size: 18px;">
+                                    Abstract Class SFML
+                                    <br/>
+                                    <br/>
+                                </font>
+                                <div style="color: rgb(250, 230, 233); background-color: rgb(43, 43, 43); font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px; line-height: 19px;">
+                                    <div>
+                                        <span style="color: #f0e7af;">
+                                            #include
+                                        </span>
+                                        <span style="color: #d1b8bb;">
+                                            "../../include/IRender.hpp"
+                                        </span>
+                                    </div>
+                                    <div>
+                                        <span style="color: #f0e7af;">
+                                            #include
+                                        </span>
+                                        <span style="color: #d1b8bb;">
+                                            &lt;SFML/Window.hpp&gt;
+                                        </span>
+                                    </div>
+                                    <div>
+                                        <span style="color: #f0e7af;">
+                                            #include
+                                        </span>
+                                        <span style="color: #d1b8bb;">
+                                            &lt;SFML/Graphics.hpp&gt;
+                                        </span>
+                                    </div>
+                                    <div>
+                                        <span style="color: #f0e7af;">
+                                            #include
+                                        </span>
+                                        <span style="color: #d1b8bb;">
+                                            &lt;memory&gt;
+                                        </span>
+                                    </div>
+                                    <br/>
+                                    <div>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            class
+                                        </span>
+                                        SFML :
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            public
+                                        </span>
+                                        IrenderLibrary {
+                                    </div>
+                                    <div>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            private:
+                                        </span>
+                                    </div>
+                                    <div>
+                                        std::unique_ptr
+                                        <span style="color: #f0e7af;">
+                                            &lt;
+                                        </span>
+                                        sf::RenderWindow
+                                        <span style="color: #f0e7af;">
+                                            &gt;
+                                        </span>
+                                        _window;
+                                    </div>
+                                    <div>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            public:
+                                        </span>
+                                    </div>
+                                    <div>
+                                        <span style="color: #82bd89;">
+                                            SFML
+                                        </span>
+                                        ();
+                                    </div>
+                                    <div>
+                                        <span style="color: #82bd89;">
+                                            ~SFML
+                                        </span>
+                                        ();
+                                    </div>
+                                    <br/>
+                                    <div>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            void
+                                        </span>
+                                        <span style="color: #82bd89;">
+                                            createWindow
+                                        </span>
+                                        ();
+                                    </div>
+                                    <div>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            void
+                                        </span>
+                                        <span style="color: #82bd89;">
+                                            destroyWindow
+                                        </span>
+                                        ();
+                                    </div>
+                                    <div>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            void
+                                        </span>
+                                        <span style="color: #82bd89;">
+                                            display_loop
+                                        </span>
+                                        (std::vector&lt;std::pair&lt;
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            int
+                                        </span>
+                                        ,
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            int
+                                        </span>
+                                        &gt;&gt;, std::vector&lt;std::pair&lt;
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            int
+                                        </span>
+                                        ,
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            int
+                                        </span>
+                                        &gt;&gt;, std::vector&lt;std::pair&lt;
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            int
+                                        </span>
+                                        ,
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            int
+                                        </span>
+                                        &gt;&gt;);
+                                    </div>
+                                    <div>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            void
+                                        </span>
+                                        <span style="color: #82bd89;">
+                                            draw_text
+                                        </span>
+                                        (
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            char
+                                        </span>
+                                        <span style="color: #82bd89;">
+                                            *
+                                        </span>
+                                        );
+                                    </div>
+                                    <div>
+                                        };
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1970" y="1984" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Abstract Class SFML...
+                </text>
+            </switch>
+        </g>
+        <path d="M 2495 2270 L 2495 2468.03" fill="none" stroke="rgb(0, 0, 0)" stroke-width="4" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 2495 2475.53 L 2490 2465.53 L 2495 2468.03 L 2500 2465.53 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-width="4" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="2235" y="1750" width="520" height="520" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 518px; height: 1px; padding-top: 2010px; margin-left: 2236px;">
+                        <div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <font color="#000000" style="font-size: 18px;">
+                                    Abstract Class SDL2
+                                    <br/>
+                                    <br/>
+                                </font>
+                                <div style="color: rgb(250, 230, 233); background-color: rgb(43, 43, 43); font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px; line-height: 19px;">
+                                    <div>
+                                        <span style="color: #f0e7af;">
+                                            #include
+                                        </span>
+                                        <span style="color: #d1b8bb;">
+                                            "../../include/IRender.hpp"
+                                        </span>
+                                    </div>
+                                    <div>
+                                        <span style="color: #f0e7af;">
+                                            #include
+                                        </span>
+                                        <span style="color: #d1b8bb;">
+                                            &lt;SDL2/SDL.h&gt;
+                                        </span>
+                                    </div>
+                                    <div>
+                                        <span style="color: #f0e7af;">
+                                            #include
+                                        </span>
+                                        <span style="color: #d1b8bb;">
+                                            &lt;SDL2/SDL_ttf.h&gt;
+                                        </span>
+                                    </div>
+                                    <div>
+                                        <span style="color: #f0e7af;">
+                                            #include
+                                        </span>
+                                        <span style="color: #d1b8bb;">
+                                            &lt;memory&gt;
+                                        </span>
+                                    </div>
+                                    <br/>
+                                    <div>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            class
+                                        </span>
+                                        SDL2 :
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            public
+                                        </span>
+                                        IrenderLibrary {
+                                    </div>
+                                    <div>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            private:
+                                        </span>
+                                    </div>
+                                    <div>
+                                        SDL_Window
+                                        <span style="color: #f0e7af;">
+                                            *
+                                        </span>
+                                        _window
+                                        <span style="color: #f0e7af;">
+                                            =
+                                        </span>
+                                        <span style="color: #82bd89;">
+                                            nullptr
+                                        </span>
+                                        ;
+                                    </div>
+                                    <div>
+                                        SDL_Renderer
+                                        <span style="color: #f0e7af;">
+                                            *
+                                        </span>
+                                        _renderer
+                                        <span style="color: #f0e7af;">
+                                            =
+                                        </span>
+                                        <span style="color: #82bd89;">
+                                            nullptr
+                                        </span>
+                                        ;
+                                    </div>
+                                    <div>
+                                        TTF_Font
+                                        <span style="color: #f0e7af;">
+                                            *
+                                        </span>
+                                        _font
+                                        <span style="color: #f0e7af;">
+                                            =
+                                        </span>
+                                        <span style="color: #82bd89;">
+                                            nullptr
+                                        </span>
+                                        ;
+                                    </div>
+                                    <div>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            public:
+                                        </span>
+                                    </div>
+                                    <div>
+                                        <span style="color: #82bd89;">
+                                            SDL2
+                                        </span>
+                                        ();
+                                    </div>
+                                    <div>
+                                        <span style="color: #82bd89;">
+                                            virtual
+                                        </span>
+                                        <span style="color: #82bd89;">
+                                            ~SDL2
+                                        </span>
+                                        ();
+                                    </div>
+                                    <div>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            void
+                                        </span>
+                                        <span style="color: #82bd89;">
+                                            createWindow
+                                        </span>
+                                        ();
+                                    </div>
+                                    <div>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            void
+                                        </span>
+                                        <span style="color: #82bd89;">
+                                            destroyWindow
+                                        </span>
+                                        ();
+                                    </div>
+                                    <div>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            void
+                                        </span>
+                                        <span style="color: #82bd89;">
+                                            display_loop
+                                        </span>
+                                        (std::vector&lt;std::pair&lt;
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            int
+                                        </span>
+                                        ,
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            int
+                                        </span>
+                                        &gt;&gt;, std::vector&lt;std::pair&lt;
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            int
+                                        </span>
+                                        ,
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            int
+                                        </span>
+                                        &gt;&gt;, std::vector&lt;std::pair&lt;
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            int
+                                        </span>
+                                        ,
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            int
+                                        </span>
+                                        &gt;&gt;);
+                                    </div>
+                                    <div>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            void
+                                        </span>
+                                        <span style="color: #82bd89;">
+                                            draw_text
+                                        </span>
+                                        (
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            char
+                                        </span>
+                                        <span style="color: #82bd89;">
+                                            *
+                                        </span>
+                                        );
+                                    </div>
+                                    <div>
+                                        };
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="2495" y="2014" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Abstract Class SDL2...
+                </text>
+            </switch>
+        </g>
+        <path d="M 3010.29 2180 L 3019.75 2565 Q 3020 2575 3010 2575 L 2601.97 2575" fill="none" stroke="rgb(0, 0, 0)" stroke-width="4" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 2594.47 2575 L 2604.47 2570 L 2601.97 2575 L 2604.47 2580 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-width="4" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="2790" y="1750" width="430" height="430" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 428px; height: 1px; padding-top: 1965px; margin-left: 2791px;">
+                        <div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <font color="#000000" style="font-size: 18px;">
+                                    <b>
+                                        Abstract Class Ncurse
+                                        <br/>
+                                        <br/>
+                                    </b>
+                                </font>
+                                <div style="color: rgb(250, 230, 233); background-color: rgb(43, 43, 43); font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px; line-height: 19px;">
+                                    <div>
+                                        <span style="color: #f0e7af;">
+                                            #include
+                                        </span>
+                                        <span style="color: #d1b8bb;">
+                                            "../../include/IRender.hpp"
+                                        </span>
+                                    </div>
+                                    <div>
+                                        <span style="color: #f0e7af;">
+                                            #include
+                                        </span>
+                                        <span style="color: #d1b8bb;">
+                                            &lt;ncurses.h&gt;
+                                        </span>
+                                    </div>
+                                    <br/>
+                                    <br/>
+                                    <div>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            class
+                                        </span>
+                                        NCURSES :
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            public
+                                        </span>
+                                        IrenderLibrary {
+                                    </div>
+                                    <div>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            public:
+                                        </span>
+                                    </div>
+                                    <div>
+                                        <span style="color: #82bd89;">
+                                            NCURSES
+                                        </span>
+                                        ();
+                                    </div>
+                                    <div>
+                                        <span style="color: #82bd89;">
+                                            ~NCURSES
+                                        </span>
+                                        ();
+                                    </div>
+                                    <br/>
+                                    <div>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            void
+                                        </span>
+                                        <span style="color: #82bd89;">
+                                            createWindow
+                                        </span>
+                                        ();
+                                    </div>
+                                    <div>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            void
+                                        </span>
+                                        <span style="color: #82bd89;">
+                                            destroyWindow
+                                        </span>
+                                        ();
+                                    </div>
+                                    <div>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            void
+                                        </span>
+                                        <span style="color: #82bd89;">
+                                            display_loop
+                                        </span>
+                                        (std::vector&lt;std::pair&lt;
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            int
+                                        </span>
+                                        ,
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            int
+                                        </span>
+                                        &gt;&gt;, std::vector&lt;std::pair&lt;
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            int
+                                        </span>
+                                        ,
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            int
+                                        </span>
+                                        &gt;&gt;, std::vector&lt;std::pair&lt;
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            int
+                                        </span>
+                                        ,
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            int
+                                        </span>
+                                        &gt;&gt;);
+                                    </div>
+                                    <div>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            void
+                                        </span>
+                                        <span style="color: #82bd89;">
+                                            draw_text
+                                        </span>
+                                        (
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            char
+                                        </span>
+                                        <span style="color: #82bd89;">
+                                            *
+                                        </span>
+                                        );
+                                    </div>
+                                    <div>
+                                        };
+                                    </div>
+                                    <br/>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="3005" y="1969" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Abstract Class Ncurse...
+                </text>
+            </switch>
+        </g>
+        <path d="M 285 2630 L 285 2748.03" fill="none" stroke="rgb(0, 0, 0)" stroke-width="4" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 285 2755.53 L 280 2745.53 L 285 2748.03 L 290 2745.53 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-width="4" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="0" y="2060" width="570" height="570" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 568px; height: 1px; padding-top: 2345px; margin-left: 1px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <b style="">
+                                    <font style="">
+                                        <font style="font-size: 24px;">
+                                            Abstract Class ATetris
+                                            <br/>
+                                        </font>
+                                        <br/>
+                                    </font>
+                                </b>
+                                <div style="color: rgb(250, 230, 233); background-color: rgb(43, 43, 43); font-family: Consolas, &quot;Courier New&quot;, monospace; line-height: 19px;">
+                                    <div style="">
+                                        <font size="3">
+                                            <span style="color: #f0e7af;font-style: italic;">
+                                                class
+                                            </span>
+                                            ATetris :
+                                            <span style="color: #f0e7af;font-style: italic;">
+                                                public
+                                            </span>
+                                            IGame {
+                                        </font>
+                                    </div>
+                                    <div style="">
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            <font size="3">
+                                                private:
+                                            </font>
+                                        </span>
+                                    </div>
+                                    <font size="3">
+                                        <br/>
+                                    </font>
+                                    <div style="">
+                                        <font size="3">
+                                            std::string _line
+                                            <span style="color: #f0e7af;">
+                                                =
+                                            </span>
+                                            <span style="color: #d1b8bb;">
+                                                "          "
+                                            </span>
+                                            ;
+                                        </font>
+                                    </div>
+                                    <font size="3">
+                                        <br/>
+                                    </font>
+                                    <div style="">
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            <font size="3">
+                                                public:
+                                            </font>
+                                        </span>
+                                    </div>
+                                    <div style="">
+                                        <font size="3">
+                                            <span style="color: #82bd89;">
+                                                ATetris
+                                            </span>
+                                            ();
+                                        </font>
+                                    </div>
+                                    <div style="">
+                                        <font size="3">
+                                            <span style="color: #82bd89;">
+                                                virtual
+                                            </span>
+                                            <span style="color: #82bd89;">
+                                                ~ATetris
+                                            </span>
+                                            ();
+                                        </font>
+                                    </div>
+                                    <div style="">
+                                        <font size="3">
+                                            <span style="color: #82bd89;">
+                                                virtual
+                                            </span>
+                                            <span style="color: #f0e7af;font-style: italic;">
+                                                void
+                                            </span>
+                                            <span style="color: #82bd89;">
+                                                init
+                                            </span>
+                                            ();
+                                        </font>
+                                    </div>
+                                    <div style="">
+                                        <font size="3">
+                                            <span style="color: #82bd89;">
+                                                virtual
+                                            </span>
+                                            <span style="color: #f0e7af;font-style: italic;">
+                                                bool
+                                            </span>
+                                            <span style="color: #82bd89;">
+                                                checkLoose
+                                            </span>
+                                            ();
+                                        </font>
+                                    </div>
+                                    <div style="">
+                                        <font size="3">
+                                            <span style="color: #82bd89;">
+                                                virtual
+                                            </span>
+                                            <span style="color: #f0e7af;font-style: italic;">
+                                                bool
+                                            </span>
+                                            <span style="color: #82bd89;">
+                                                checkWin
+                                            </span>
+                                            ();
+                                        </font>
+                                    </div>
+                                    <div style="">
+                                        <font size="3">
+                                            <span style="color: #82bd89;">
+                                                virtual
+                                            </span>
+                                            <span style="color: #f0e7af;font-style: italic;">
+                                                void
+                                            </span>
+                                            <span style="color: #82bd89;">
+                                                getKey
+                                            </span>
+                                            ();
+                                        </font>
+                                    </div>
+                                    <div style="">
+                                        <font size="3">
+                                            <span style="color: #82bd89;">
+                                                virtual
+                                            </span>
+                                            <span style="color: #f0e7af;font-style: italic;">
+                                                void
+                                            </span>
+                                            <span style="color: #82bd89;">
+                                                move
+                                            </span>
+                                            ();
+                                        </font>
+                                    </div>
+                                    <div style="">
+                                        <font size="3">
+                                            <span style="color: #82bd89;">
+                                                virtual
+                                            </span>
+                                            <span style="color: #f0e7af;font-style: italic;">
+                                                void
+                                            </span>
+                                            <span style="color: #82bd89;">
+                                                getScore
+                                            </span>
+                                            ();
+                                        </font>
+                                    </div>
+                                    <div style="">
+                                        <font size="3">
+                                            <span style="color: #82bd89;">
+                                                virtual
+                                            </span>
+                                            <span style="color: #f0e7af;font-style: italic;">
+                                                void
+                                            </span>
+                                            <span style="color: #82bd89;">
+                                                action
+                                            </span>
+                                            ();
+                                        </font>
+                                    </div>
+                                    <div style="">
+                                        <font size="3">
+                                            <span style="color: #82bd89;">
+                                                virtual
+                                            </span>
+                                            <span style="color: #f0e7af;font-style: italic;">
+                                                void
+                                            </span>
+                                            <span style="color: #82bd89;">
+                                                summon
+                                            </span>
+                                            ();
+                                        </font>
+                                    </div>
+                                    <div style="">
+                                        <font size="3">
+                                            <span style="color: #82bd89;">
+                                                virtual
+                                            </span>
+                                            <span style="color: #f0e7af;font-style: italic;">
+                                                void
+                                            </span>
+                                            <span style="color: #82bd89;">
+                                                gameRun
+                                            </span>
+                                            ();
+                                        </font>
+                                    </div>
+                                    <div style="">
+                                        <font size="3">
+                                            <span style="color: #82bd89;">
+                                                virtual
+                                            </span>
+                                            <span style="color: #f0e7af;font-style: italic;">
+                                                void
+                                            </span>
+                                            <span style="color: #82bd89;">
+                                                setWindow
+                                            </span>
+                                            ();
+                                        </font>
+                                    </div>
+                                    <div style="">
+                                        <font size="3">
+                                            };
+                                        </font>
+                                    </div>
+                                    <br/>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="285" y="2349" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Abstract Class ATetris...
+                </text>
+            </switch>
+        </g>
+        <path d="M 1098.74 2640 L 1101.88 2748.03" fill="none" stroke="rgb(0, 0, 0)" stroke-width="4" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 1102.1 2755.53 L 1096.81 2745.68 L 1101.88 2748.03 L 1106.81 2745.39 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-width="4" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="790" y="2040" width="600" height="600" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 598px; height: 1px; padding-top: 2340px; margin-left: 791px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <span style="font-size: 24px;">
+                                    <b>
+                                        Abstract Class ASnake
+                                        <br/>
+                                        <br/>
+                                    </b>
+                                </span>
+                                <div style="color: rgb(250, 230, 233); background-color: rgb(43, 43, 43); font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px; line-height: 19px;">
+                                    <div>
+                                        <span style="color: #f0e7af;">
+                                            #include
+                                        </span>
+                                        <span style="color: #d1b8bb;">
+                                            "../../Include/IGame.hpp"
+                                        </span>
+                                    </div>
+                                    <div>
+                                        <span style="color: #f0e7af;">
+                                            #include
+                                        </span>
+                                        <span style="color: #d1b8bb;">
+                                            &lt;vector&gt;
+                                        </span>
+                                    </div>
+                                    <div>
+                                        <span style="color: #f0e7af;">
+                                            #include
+                                        </span>
+                                        <span style="color: #d1b8bb;">
+                                            &lt;string&gt;
+                                        </span>
+                                    </div>
+                                    <div>
+                                        <span style="color: #f0e7af;">
+                                            #include
+                                        </span>
+                                        <span style="color: #d1b8bb;">
+                                            &lt;ncurses.h&gt;
+                                        </span>
+                                    </div>
+                                    <br/>
+                                    <br/>
+                                    <div>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            class
+                                        </span>
+                                        ASnake :
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            public
+                                        </span>
+                                        IGame {
+                                    </div>
+                                    <div>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            private:
+                                        </span>
+                                    </div>
+                                    <div>
+                                    </div>
+                                    <div>
+                                        std::string _line
+                                        <span style="color: #f0e7af;">
+                                            =
+                                        </span>
+                                        <span style="color: #d1b8bb;">
+                                            "          "
+                                        </span>
+                                        ;
+                                    </div>
+                                    <br/>
+                                    <div>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            public:
+                                        </span>
+                                    </div>
+                                    <div>
+                                        <span style="color: #82bd89;">
+                                            ASnake
+                                        </span>
+                                        ();
+                                    </div>
+                                    <div>
+                                        <span style="color: #82bd89;">
+                                            virtual
+                                        </span>
+                                        <span style="color: #82bd89;">
+                                            ~ASnake
+                                        </span>
+                                        ();
+                                    </div>
+                                    <div>
+                                        <span style="color: #82bd89;">
+                                            virtual
+                                        </span>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            void
+                                        </span>
+                                        <span style="color: #82bd89;">
+                                            init
+                                        </span>
+                                        ();
+                                    </div>
+                                    <div>
+                                        <span style="color: #82bd89;">
+                                            virtual
+                                        </span>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            bool
+                                        </span>
+                                        <span style="color: #82bd89;">
+                                            checkLoose
+                                        </span>
+                                        ();
+                                    </div>
+                                    <div>
+                                        <span style="color: #82bd89;">
+                                            virtual
+                                        </span>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            bool
+                                        </span>
+                                        <span style="color: #82bd89;">
+                                            checkWin
+                                        </span>
+                                        ();
+                                    </div>
+                                    <div>
+                                        <span style="color: #82bd89;">
+                                            virtual
+                                        </span>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            void
+                                        </span>
+                                        <span style="color: #82bd89;">
+                                            getKey
+                                        </span>
+                                        ();
+                                    </div>
+                                    <div>
+                                        <span style="color: #82bd89;">
+                                            virtual
+                                        </span>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            void
+                                        </span>
+                                        <span style="color: #82bd89;">
+                                            move
+                                        </span>
+                                        ();
+                                    </div>
+                                    <div>
+                                        <span style="color: #82bd89;">
+                                            virtual
+                                        </span>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            void
+                                        </span>
+                                        <span style="color: #82bd89;">
+                                            getScore
+                                        </span>
+                                        ();
+                                    </div>
+                                    <div>
+                                        <span style="color: #82bd89;">
+                                            virtual
+                                        </span>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            void
+                                        </span>
+                                        <span style="color: #82bd89;">
+                                            action
+                                        </span>
+                                        ();
+                                    </div>
+                                    <div>
+                                        <span style="color: #82bd89;">
+                                            virtual
+                                        </span>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            void
+                                        </span>
+                                        <span style="color: #82bd89;">
+                                            summon
+                                        </span>
+                                        ();
+                                    </div>
+                                    <div>
+                                        <span style="color: #82bd89;">
+                                            virtual
+                                        </span>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            void
+                                        </span>
+                                        <span style="color: #82bd89;">
+                                            gameRun
+                                        </span>
+                                        ();
+                                    </div>
+                                    <div>
+                                        <span style="color: #82bd89;">
+                                            virtual
+                                        </span>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            void
+                                        </span>
+                                        <span style="color: #82bd89;">
+                                            setWindow
+                                        </span>
+                                        ();
+                                    </div>
+                                    <div>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            protected:
+                                        </span>
+                                    </div>
+                                    <div>
+                                        };
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1090" y="2344" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Abstract Class ASnake...
+                </text>
+            </switch>
+        </g>
+        <path d="M 392.68 1930 L 292.64 2050.78" fill="none" stroke="rgb(0, 0, 0)" stroke-width="4" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 287.85 2056.56 L 290.38 2045.67 L 292.64 2050.78 L 298.08 2052.04 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-width="4" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 998.53 1930 L 1082.35 2030.79" fill="none" stroke="rgb(0, 0, 0)" stroke-width="4" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 1087.14 2036.56 L 1076.9 2032.07 L 1082.35 2030.79 L 1084.59 2025.68 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-width="4" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="330" y="1200" width="730" height="730" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 728px; height: 1px; padding-top: 1565px; margin-left: 331px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <span style="font-size: 24px;">
+                                    <b>
+                                        Interface IGame
+                                        <br/>
+                                        <br/>
+                                    </b>
+                                </span>
+                                <div style="color: rgb(250, 230, 233); background-color: rgb(43, 43, 43); font-family: Consolas, &quot;Courier New&quot;, monospace; font-size: 14px; line-height: 19px;">
+                                    <div>
+                                        <span style="color: #f0e7af;">
+                                            #include
+                                        </span>
+                                        <span style="color: #d1b8bb;">
+                                            "../../Redering/include/IRender.hpp"
+                                        </span>
+                                    </div>
+                                    <br/>
+                                    <div>
+                                        <span style="color: #f0e7af;">
+                                            #include
+                                        </span>
+                                        <span style="color: #d1b8bb;">
+                                            &lt;string&gt;
+                                        </span>
+                                    </div>
+                                    <div>
+                                        <span style="color: #f0e7af;">
+                                            #include
+                                        </span>
+                                        <span style="color: #d1b8bb;">
+                                            &lt;vector&gt;
+                                        </span>
+                                    </div>
+                                    <div>
+                                        <span style="color: #f0e7af;">
+                                            #include
+                                        </span>
+                                        <span style="color: #d1b8bb;">
+                                            &lt;memory&gt;
+                                        </span>
+                                    </div>
+                                    <div>
+                                        <span style="color: #f0e7af;">
+                                            #include
+                                        </span>
+                                        <span style="color: #d1b8bb;">
+                                            &lt;cstdint&gt;
+                                        </span>
+                                    </div>
+                                    <br/>
+                                    <br/>
+                                    <div>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            class
+                                        </span>
+                                        IGame
+                                    </div>
+                                    <div>
+                                        {
+                                    </div>
+                                    <div>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            public:
+                                        </span>
+                                    </div>
+                                    <div>
+                                        <span style="color: #82bd89;">
+                                            virtual
+                                        </span>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            void
+                                        </span>
+                                        <span style="color: #82bd89;">
+                                            init
+                                        </span>
+                                        ()
+                                        <span style="color: #f0e7af;">
+                                            =
+                                        </span>
+                                        <span style="color: #f0e7af;">
+                                            0
+                                        </span>
+                                        ;
+                                    </div>
+                                    <div>
+                                        <span style="color: #82bd89;">
+                                            virtual
+                                        </span>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            bool
+                                        </span>
+                                        <span style="color: #82bd89;">
+                                            checkLoose
+                                        </span>
+                                        ()
+                                        <span style="color: #f0e7af;">
+                                            =
+                                        </span>
+                                        <span style="color: #f0e7af;">
+                                            0
+                                        </span>
+                                        ;
+                                    </div>
+                                    <div>
+                                        <span style="color: #82bd89;">
+                                            virtual
+                                        </span>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            bool
+                                        </span>
+                                        <span style="color: #82bd89;">
+                                            checkWin
+                                        </span>
+                                        ()
+                                        <span style="color: #f0e7af;">
+                                            =
+                                        </span>
+                                        <span style="color: #f0e7af;">
+                                            0
+                                        </span>
+                                        ;
+                                    </div>
+                                    <div>
+                                        <span style="color: #82bd89;">
+                                            virtual
+                                        </span>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            void
+                                        </span>
+                                        <span style="color: #82bd89;">
+                                            getKey
+                                        </span>
+                                        ()
+                                        <span style="color: #f0e7af;">
+                                            =
+                                        </span>
+                                        <span style="color: #f0e7af;">
+                                            0
+                                        </span>
+                                        ;
+                                    </div>
+                                    <div>
+                                        <span style="color: #82bd89;">
+                                            virtual
+                                        </span>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            void
+                                        </span>
+                                        <span style="color: #82bd89;">
+                                            move
+                                        </span>
+                                        ()
+                                        <span style="color: #f0e7af;">
+                                            =
+                                        </span>
+                                        <span style="color: #f0e7af;">
+                                            0
+                                        </span>
+                                        ;
+                                    </div>
+                                    <div>
+                                        <span style="color: #82bd89;">
+                                            virtual
+                                        </span>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            void
+                                        </span>
+                                        <span style="color: #82bd89;">
+                                            getScore
+                                        </span>
+                                        ()
+                                        <span style="color: #f0e7af;">
+                                            =
+                                        </span>
+                                        <span style="color: #f0e7af;">
+                                            0
+                                        </span>
+                                        ;
+                                    </div>
+                                    <div>
+                                        <span style="color: #82bd89;">
+                                            virtual
+                                        </span>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            void
+                                        </span>
+                                        <span style="color: #82bd89;">
+                                            action
+                                        </span>
+                                        ()
+                                        <span style="color: #f0e7af;">
+                                            =
+                                        </span>
+                                        <span style="color: #f0e7af;">
+                                            0
+                                        </span>
+                                        ;
+                                    </div>
+                                    <div>
+                                        <span style="color: #82bd89;">
+                                            virtual
+                                        </span>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            void
+                                        </span>
+                                        <span style="color: #82bd89;">
+                                            summon
+                                        </span>
+                                        ()
+                                        <span style="color: #f0e7af;">
+                                            =
+                                        </span>
+                                        <span style="color: #f0e7af;">
+                                            0
+                                        </span>
+                                        ;
+                                    </div>
+                                    <div>
+                                        <span style="color: #82bd89;">
+                                            virtual
+                                        </span>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            void
+                                        </span>
+                                        <span style="color: #82bd89;">
+                                            gameRun
+                                        </span>
+                                        ()
+                                        <span style="color: #f0e7af;">
+                                            =
+                                        </span>
+                                        <span style="color: #f0e7af;">
+                                            0
+                                        </span>
+                                        ;
+                                    </div>
+                                    <div>
+                                        <span style="color: #82bd89;">
+                                            virtual
+                                        </span>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            void
+                                        </span>
+                                        <span style="color: #82bd89;">
+                                            setWindow
+                                        </span>
+                                        ()
+                                        <span style="color: #f0e7af;">
+                                            =
+                                        </span>
+                                        <span style="color: #f0e7af;">
+                                            0
+                                        </span>
+                                        ;
+                                    </div>
+                                    <div>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            protected:
+                                        </span>
+                                    </div>
+                                    <div>
+                                        <span style="color: #82bd89;">
+                                            virtual
+                                        </span>
+                                        <span style="color: #82bd89;">
+                                            ~IGame
+                                        </span>
+                                        ()
+                                        <span style="color: #f0e7af;">
+                                            =
+                                        </span>
+                                        <span style="color: #f0e7af;">
+                                            default
+                                        </span>
+                                        ;
+                                    </div>
+                                    <div>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            public:
+                                        </span>
+                                    </div>
+                                    <div>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            bool
+                                        </span>
+                                        _win
+                                        <span style="color: #f0e7af;">
+                                            =
+                                        </span>
+                                        <span style="color: #82bd89;">
+                                            false
+                                        </span>
+                                        ;
+                                    </div>
+                                    <div>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            bool
+                                        </span>
+                                        _loose
+                                        <span style="color: #f0e7af;">
+                                            =
+                                        </span>
+                                        <span style="color: #82bd89;">
+                                            false
+                                        </span>
+                                        ;
+                                    </div>
+                                    <div>
+                                        std::vector
+                                        <span style="color: #f0e7af;">
+                                            &lt;
+                                        </span>
+                                        std::pair
+                                        <span style="color: #f0e7af;">
+                                            &lt;
+                                        </span>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            int
+                                        </span>
+                                        ,
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            int
+                                        </span>
+                                        <span style="color: #f0e7af;">
+                                            &gt;&gt;
+                                        </span>
+                                        _map;
+                                    </div>
+                                    <div>
+                                        std::vector
+                                        <span style="color: #f0e7af;">
+                                            &lt;
+                                        </span>
+                                        std::pair
+                                        <span style="color: #f0e7af;">
+                                            &lt;
+                                        </span>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            int
+                                        </span>
+                                        ,
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            int
+                                        </span>
+                                        <span style="color: #f0e7af;">
+                                            &gt;&gt;
+                                        </span>
+                                        _entity;
+                                    </div>
+                                    <div>
+                                        std::vector
+                                        <span style="color: #f0e7af;">
+                                            &lt;
+                                        </span>
+                                        std::pair
+                                        <span style="color: #f0e7af;">
+                                            &lt;
+                                        </span>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            int
+                                        </span>
+                                        ,
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            int
+                                        </span>
+                                        <span style="color: #f0e7af;">
+                                            &gt;&gt;
+                                        </span>
+                                        _window;
+                                    </div>
+                                    <div>
+                                        <span style="color: #f0e7af;font-style: italic;">
+                                            enum
+                                        </span>
+                                        _currentDirection {
+                                        <span style="color: #78b3c2;">
+                                            UP
+                                        </span>
+                                        ,
+                                        <span style="color: #78b3c2;">
+                                            DOWN
+                                        </span>
+                                        ,
+                                        <span style="color: #78b3c2;">
+                                            LEFT
+                                        </span>
+                                        ,
+                                        <span style="color: #78b3c2;">
+                                            RIGHT
+                                        </span>
+                                        };
+                                    </div>
+                                    <div>
+                                        };
+                                    </div>
+                                    <br/>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="695" y="1569" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Interface IGame...
+                </text>
+            </switch>
+        </g>
+        <rect x="190" y="2760" width="190" height="190" fill="url(#mx-gradient-ff8000-1-ffa500-1-s-0)" stroke="#d79b00" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 188px; height: 1px; padding-top: 2855px; margin-left: 191px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <span style="font-size: 24px;">
+                                    <b>
+                                        <font color="#000000">
+                                            MAKEFILE
+                                        </font>
+                                    </b>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="285" y="2859" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    MAKEFILE
+                </text>
+            </switch>
+        </g>
+        <rect x="2400" y="2480" width="190" height="190" fill="url(#mx-gradient-ff8000-1-ffa500-1-s-0)" stroke="#d79b00" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 188px; height: 1px; padding-top: 2575px; margin-left: 2401px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <span style="font-size: 24px;">
+                                    <b>
+                                        <font color="#000000">
+                                            MAKEFILE
+                                        </font>
+                                    </b>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="2495" y="2579" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    MAKEFILE
+                </text>
+            </switch>
+        </g>
+        <rect x="1010" y="2760" width="190" height="190" fill="url(#mx-gradient-ff8000-1-ffa500-1-s-0)" stroke="#d79b00" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 188px; height: 1px; padding-top: 2855px; margin-left: 1011px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <span style="font-size: 24px;">
+                                    <b>
+                                        <font color="#000000">
+                                            MAKEFILE
+                                        </font>
+                                    </b>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1105" y="2859" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    MAKEFILE
+                </text>
+            </switch>
+        </g>
+        <rect x="1460" y="820" width="290" height="290" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 288px; height: 1px; padding-top: 965px; margin-left: 1461px;">
+                        <div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <font color="#000000">
+                                    <span style="font-size: 24px;">
+                                        <b>
+                                            DLLoader
+                                        </b>
+                                    </span>
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1605" y="969" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    DLLoader
+                </text>
+            </switch>
+        </g>
+        <path d="M 1601.69 690 L 1603.11 808.03" fill="none" stroke="rgb(0, 0, 0)" stroke-width="4" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 1603.2 815.53 L 1598.08 805.59 L 1603.11 808.03 L 1608.08 805.47 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-width="4" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 1600 410 L 1600 291.97" fill="none" stroke="rgb(0, 0, 0)" stroke-width="4" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 1600 284.47 L 1605 294.47 L 1600 291.97 L 1595 294.47 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-width="4" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="1460" y="410" width="280" height="280" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 278px; height: 1px; padding-top: 550px; margin-left: 1461px;">
+                        <div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <font color="#000000">
+                                    <span style="font-size: 24px;">
+                                        <b>
+                                            DLLoader
+                                        </b>
+                                    </span>
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1600" y="554" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    DLLoader
+                </text>
+            </switch>
+        </g>
+        <rect x="1460" y="0" width="280" height="280" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 278px; height: 1px; padding-top: 140px; margin-left: 1461px;">
+                        <div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                <font color="#000000">
+                                    <span style="font-size: 24px;">
+                                        <b>
+                                            Main
+                                        </b>
+                                    </span>
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1600" y="144" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Main
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Text is not SVG - cannot display
+            </text>
+        </a>
+    </switch>
+</svg>
