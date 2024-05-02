@@ -2,7 +2,7 @@
 
 ![Logo de mon projet](https://64.media.tumblr.com/1040639574a1dd9af3ea125f49acb51b/cec82584e8af4765-f8/s1280x1920/df9c28323e5dc7fc6c56b366d10a9d31412d8912.gif)
 
-Welcome to the Arcade Project, an Epitech graphical platform designed to emulate classic arcade games with a modern twist. This project leverages modular architecture to allow for the easy integration of various games and graphical rendering libraries such as SFML, SDL2, and NCurses.
+Welcome to the Arcade Project, a graphical platform designed to emulate classic arcade games with a modern twist. This project leverages modular architecture to allow for the easy integration of various games and graphical rendering libraries such as SFML, SDL2, and NCurses.
 
 # Contributors:
 - Ylianne Gentelet
